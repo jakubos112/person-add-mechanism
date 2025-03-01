@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jakubos112/Documents/programowanie 1/projekt2/fig'
+relocations:     []
+...
